@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# PROFILE
 
-You can use the [editor on GitHub](https://github.com/Cherry0202/ChiseiYamaguchi-sPortfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- HAL東京IT学部WEB開発学科３年
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 山口千晟（Yamaguchi  Chisei）
 
-### Markdown
+- フロンドエンド、バックエンド、フルスタックエンジニア志望
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 17歳~20歳までアメリカカルフォルニア州に留学
 
-```markdown
-Syntax highlighted code block
+  
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+#QUALIFICATIONS
 
-1. Numbered
-2. List
+- 基本情報技術者試験
 
-**Bold** and _Italic_ and `Code` text
+- J検定1級
 
-[Link](url) and ![Image](src)
-```
+  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+#SKILLS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cherry0202/ChiseiYamaguchi-sPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Laravel
+- Firesbase
+- Vue.js
+- Mysql
+- HTML
+- CSS
+- Node.js
+- PHP
+- JavaScript
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# WORKS
+
+- 3Day
+	- 3D modelを主に扱った、ECサイト。VRでの商品閲覧ができるのがポイント
+	- ![3DayTop](https://github.com/Cherry0202/portfolio_images/blob/master/image/3DayTop.png)
+<details>
+<summary>折りたたみ部分のタイトル</summary>
+<pre>
+<code>
+折りたたまれる詳細情報部分
+折りたたまれる詳細情報部分
+折りたたまれる詳細情報部分
+</code>
+</pre>
+</details>
+
+### 使用言語
+
+- Laravel
+
+- JavaScript
+
+- HTML
+
+- CSS
+
+  
