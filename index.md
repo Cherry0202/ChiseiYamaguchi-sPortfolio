@@ -23,12 +23,14 @@
 #SKILLS
 
 - Laravel
-- Firesbase
-- Vue.js
+- Go（学習中）
+- Firesbase(学習中)
+- Vue.js（学習中）
+- Next.js（学習中）
 - Mysql
 - HTML
 - CSS
-- Node.js
+- Node.js（学習中）
 - PHP
 - JavaScript
 
@@ -37,8 +39,8 @@
 # WORKS
 
 - 3Day
-	- 3D modelを主に扱った、ECサイト。VRでの商品閲覧ができるのがポイント
-	- ![3DayTop](https://github.com/Cherry0202/portfolio_images/blob/master/image/3DayTop.png)
+  - 3D modelを主に扱った、ECサイト。VRでの商品閲覧ができるのがポイント
+  - ![3DayTop](https://github.com/Cherry0202/PrivatePortfolioImages/blob/master/image/3DayTop.png)
 <details>
 <summary>折りたたみ部分のタイトル</summary>
 <pre>
