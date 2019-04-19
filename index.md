@@ -11,7 +11,7 @@
   
 
 
-#QUALIFICATIONS
+# QUALIFICATIONS
 
 - 基本情報技術者試験
 
@@ -20,7 +20,7 @@
   
 
 
-#SKILLS
+# SKILLS
 
 - Laravel
 - Go（学習中）
