@@ -40,7 +40,7 @@
 
 - 3Day
   - 3D modelを主に扱った、ECサイト。VRでの商品閲覧ができるのがポイント
-  - ![3DayTop](https://github.com/Cherry0202/PrivatePortfolioImages/blob/master/image/3DayTop.png)
+  - ![3DayTop](https://github.com/Cherry0202/PrivatePortfolioImages/image/3DayTop.png)
 <details>
 <summary>折りたたみ部分のタイトル</summary>
 <pre>
