@@ -39,18 +39,14 @@
 # WORKS
 
 - 3Day
-  - 3D modelを主に扱った、ECサイト。VRでの商品閲覧ができるのがポイントです。
   ![3DayTop](/image/3DayTop.png)
-<details>
-<summary>他の画像</summary>
-<pre>
-<code>
-	<image src="/image/スクリーンショット 2019-04-16 18.43.19.png" alt="img2"></image>
-	<image src="/image/スクリーンショット 2019-04-16 18.42.13.png" alt="img2"></image>
-</code>
-</pre>
-</details>
+  - 3D modelを主に扱った、ECサイトです。
 
+
+### ポイント
+- VRで3Dモデル商品が見れる。
+- SMS認証にて次回以降、支払い入力省略可。
+- オリジナルのメイン3Dモデル、背景画像を使用。
 
 
 ### 開発期間
@@ -66,5 +62,4 @@
 - HTML
 
 - CSS
-
   
