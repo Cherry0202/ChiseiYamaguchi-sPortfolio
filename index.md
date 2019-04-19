@@ -38,7 +38,8 @@
 
 # WORKS
 
-- 3Day
+
+## 3Day(サンデー)
   ![3DayTop](/image/3DayTop.png)
   - 3D modelを主に扱った、ECサイトです。
 
@@ -62,4 +63,20 @@
 - HTML
 
 - CSS
+
+
+
+# LINKS
+
+### [Qiita](https://qiita.com/ChiseiYamaguchi)
+
+### [GitHub](https://github.com/Cherry0202)
+
   
+
+# CONTACT ME
+
+### GMAIL
+- ex00ia2432@gmail.com
+### LINE
+- chisei1016
