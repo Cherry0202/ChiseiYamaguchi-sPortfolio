@@ -45,12 +45,14 @@
 <summary>折りたたみ部分のタイトル</summary>
 <pre>
 <code>
-折りたたまれる詳細情報部分
-折りたたまれる詳細情報部分
-折りたたまれる詳細情報部分
+<image src ="https://github.com/Cherry0202/PrivatePortfolioImages/blob/master/image/3DayTop.png" alt="hoge"></image>
+![3DayTop](https://github.com/Cherry0202/PrivatePortfolioImages/blob/master/image/3DayTop.png)
+![3DayTop](https://github.com/Cherry0202/PrivatePortfolioImages/blob/master/image/3DayTop.png)
+![3DayTop](https://github.com/Cherry0202/PrivatePortfolioImages/blob/master/image/3DayTop.png)
 </code>
 </pre>
 </details>
+
 
 ### 使用言語
 
