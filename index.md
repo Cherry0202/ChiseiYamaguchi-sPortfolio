@@ -72,11 +72,14 @@
 
 ### [GitHub](https://github.com/Cherry0202)
 
+### [Wantedly](https://www.wantedly.com/users/73917130)
+
   
 
 # CONTACT ME
 
 ### GMAIL
 - ex00ia2432@gmail.com
+
 ### LINE
 - chisei1016
