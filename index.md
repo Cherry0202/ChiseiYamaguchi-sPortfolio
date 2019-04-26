@@ -10,6 +10,15 @@
 
   
 
+##  My History of Study Programming
+
+- 2017年10月HAL東京へ入学し、HTML,CSS,PHP,MySQLを、2018年3月まで学習。
+
+- 2018年4月 独学でLaravel,JavaScriptを,2019年3月まで学習。
+
+- 2019年4月独学で,Vue.js,Nuxt.js,Go,Firebase,GCPを現在まで学習中。
+
+  
 
 # QUALIFICATIONS
 
@@ -41,7 +50,7 @@
 
 ## 3Day(サンデー)
   ![3DayTop](/image/3DayTop.png)
-  - 3D modelを主に扱った、ECサイトです。
+  - 3D modelを主に扱い、実際にVRにて3Dモデルが観れるECサイトです。
 
 
 ### ポイント
@@ -56,12 +65,26 @@
 
 ### 使用言語
 
-- Laravel
-
+- Laravel(PHP)
 - JavaScript
-
 - HTML
+- CSS
+- A-frame
 
+## SeedBot
+
+![SeedBot](http://wf04.net-folder.com/bfffghacgeephx8k5c2a//image/スクリーンショット 2018-06-30 )
+
+- プログラミングをはじめて、初めて制作した作品です。
+
+### 開発期間
+
+- 3ヶ月
+
+### 使用言語
+
+- PHP
+- HTML
 - CSS
 
 
@@ -83,3 +106,6 @@
 
 ### LINE
 - chisei1016
+
+
+
