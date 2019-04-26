@@ -73,7 +73,7 @@
 
 ## SeedBot
 
-![SeedBot](/image/スクリーンショット 2018-06-30 )
+![SeedBot](/image/SeedBotTop.png)
 
 - プログラミングをはじめて、初めて制作した作品です。
 
