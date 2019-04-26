@@ -73,7 +73,9 @@
 
 ## SeedBot
 
-![SeedBot](/image/SeedBotTop.png)
+![SeedBot](/image/SeedBotTop.png)![ErinaBot](/image/ErinaBot.png)
+
+![GenaBot](/image/GenaBot.png)![SnowBot](/image/SnowBot.png)
 
 - プログラミングをはじめて、初めて制作した作品です。
 
