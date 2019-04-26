@@ -73,7 +73,7 @@
 
 ## SeedBot
 
-![SeedBot](http://wf04.net-folder.com/bfffghacgeephx8k5c2a//image/スクリーンショット 2018-06-30 )
+![SeedBot](/image/スクリーンショット 2018-06-30 )
 
 - プログラミングをはじめて、初めて制作した作品です。
 
