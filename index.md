@@ -47,9 +47,46 @@
 
 # WORKS
 
+## ToDoApp
+
+![ToDoGif](/image/ToDO.gif)
+
+- 自分のToDoが管理できるWebアプリです。
+
+### 開発期間
+
+- １ヶ月
+
+### 使用言語・技術
+
+- Gin(Go)
+- GORM
+- HTML
+- CSS
+- Uikit
+- MySQL
+
+## BlogApp
+
+  ![BlogGif](/image/Blog.gif)
+
+- 記事を投稿・作成・編集・削除ができるWebアプリです。
+
+### 開発期間
+
+- １ヶ月
+
+### 使用言語・技術
+
+- Laravel
+- HTML
+- CSS
+- BootStrap
+- MySQL
+
 
 ## 3Day(サンデー)
-  ![3DayTop](/image/3DayTop.png)
+  ![3DayTop](/image/3Day0.7.gif)
   - 3D modelを主に扱い、実際にVRにて3Dモデルが観れるECサイトです。
 
 
@@ -62,14 +99,14 @@
 ### 開発期間
 - 1年間
 
-
-### 使用言語
+### 使用言語・技術
 
 - Laravel(PHP)
 - JavaScript
 - HTML
 - CSS
 - A-frame
+- MySQL
 
 ## SeedBot
 
