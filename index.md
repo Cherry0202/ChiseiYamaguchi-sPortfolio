@@ -47,6 +47,43 @@
 
 # WORKS
 
+## Voters
+
+![CommingSoon](/image/comming-soon(1).jpg)
+
+- エンジニア評価システム
+
+## 開発期間
+
+- 開発中
+
+### 使用言語・技術(予定含む)
+
+- Nuxt.js
+- firebase(firestore)
+- Go
+- Gin
+- GCP(CAE)
+- Algolia
+
+## グラディ
+
+![CommingSoon](/image/comming-soon(1).jpg)
+
+- 映画座席予約サイト
+
+## 開発期間
+
+- 開発中
+
+### 使用言語・技術
+
+- Nuxt.ts
+- firebase(firestore, cloudFunction)
+- flamelink
+- node.js 
+- Algolia
+
 ## ToDoApp
 
 ![ToDoGif](/image/ToDO.gif)
