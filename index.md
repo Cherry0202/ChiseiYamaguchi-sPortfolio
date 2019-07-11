@@ -49,7 +49,7 @@
 
 ## Voters
 
-![CommingSoon](/image/comming-soon.jpg)
+![CommingSoon](/image/comming-soon(1).jpg)
 
 - エンジニア評価システム
 
@@ -68,7 +68,7 @@
 
 ## グラディ
 
-![CommingSoon](/image/comming-soon.jpg)
+![CommingSoon](/image/comming-soon(1).jpg)
 
 - 映画座席予約サイト
 
