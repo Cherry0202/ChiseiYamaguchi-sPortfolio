@@ -49,7 +49,7 @@
 
 ## Voters
 
-![CommingSoon](/image/coming-soon.jpg)
+[![CommingSoon](/image/coming-soon.jpg)](https://github.com/Cherry0202/ProjectVoters)
 
 - エンジニア評価システム
 
@@ -68,7 +68,7 @@
 
 ## グラディ
 
-![CommingSoon](/image/coming-soon.jpg)
+[![CommingSoon](/image/coming-soon.jpg)](https://github.com/yutaroyoshikawa/grady)
 
 - 映画座席予約サイト
 
@@ -86,7 +86,7 @@
 
 ## ToDoApp
 
-![ToDoGif](/image/ToDO.gif)
+[![ToDoGif](/image/ToDO.gif)](https://github.com/Cherry0202/ToDoApp)
 
 - 自分のToDoが管理できるWebアプリです。
 
@@ -105,7 +105,7 @@
 
 ## BlogApp
 
-  ![BlogGif](/image/Blog.gif)
+  [![BlogGif](/image/Blog.gif)](https://github.com/Cherry0202/Article)
 
 - 記事を投稿・作成・編集・削除ができるWebアプリです。
 
@@ -123,7 +123,7 @@
 
 
 ## 3Day(サンデー)
-  ![3DayTop](/image/3Day0.7.gif)
+  [![3DayTop](/image/3Day0.7.gif)](https://qiita.com/ChiseiYamaguchi/items/852b36db802cc167b593)
   - 3D modelを主に扱い、実際にVRにて3Dモデルが観れるECサイトです。
 
 
