@@ -23,10 +23,15 @@
 # QUALIFICATIONS
 
 - 基本情報技術者試験
-
 - J検定1級
 
-  
+
+
+# Honors & Awards
+
+- 2019-9 株式会社エムティーアイ エンジニア賞　受賞　
+
+
 
 
 # SKILLS
