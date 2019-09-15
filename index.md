@@ -37,20 +37,38 @@
 # SKILLS
 
 - Laravel
-- Go（学習中）
-- Firesbase(学習中)
-- Vue.js（学習中）
-- Next.js（学習中）
+- Go
+- AWS(lambda, DynamoDB, API Gateway, S3)
+- Firesbase(Fire store)
+- Vue.js
+- Next.js
 - Mysql
 - HTML
 - CSS
-- Node.js（学習中）
+- Node.js
 - PHP
 - JavaScript
 
 
 
 # WORKS
+
+
+
+## Bouquet 
+
+- 結婚を控えている女性に向けた、美容計画提案サービス
+
+## 開発期間
+
+- 開発中
+
+### 使用言語・技術(予定含む)
+
+- Go(Gin)
+- Vue.js
+- AWS(DynamoDB, Lambda, API Gayteway, S3)
+- JWT
 
 ## Voters
 
