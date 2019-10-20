@@ -36,8 +36,10 @@
 
 # SKILLS
 
-- Laravel
 - Go
+- PHP(Laravel)
+- Node.js
+- JavaScript
 - AWS(lambda, DynamoDB, API Gateway, S3)
 - Firesbase(Fire store)
 - Vue.js
@@ -45,10 +47,6 @@
 - Mysql
 - HTML
 - CSS
-- Node.js
-- PHP
-- JavaScript
-
 
 
 # WORKS
