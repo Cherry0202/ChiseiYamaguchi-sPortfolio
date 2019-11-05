@@ -12,7 +12,7 @@
 
 ##  My History of Study Programming
 
-- 2017年10月HAL東京へ入学し、HTML,CSS,PHP,MySQLを、2018年3月まで学習。
+- 201６年10月HAL東京へ入学し、HTML,CSS,PHP,MySQLを、2018年3月まで学習。
 
 - 2018年4月 独学でLaravel,JavaScriptを,2019年3月まで学習。
 
