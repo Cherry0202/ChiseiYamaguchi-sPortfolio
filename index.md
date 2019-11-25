@@ -16,7 +16,7 @@
 
 - 2018年4月 独学でLaravel,JavaScriptを,2019年3月まで学習。
 
-- 2019年4月独学で,Vue.js,Nuxt.js,Go,Firebase,GCPを　現在まで学習中。
+- 2019年4月独学で,Vue.js,Nuxt.js,Go,Firebase,AWSを現在まで学習中。
 
   
 
